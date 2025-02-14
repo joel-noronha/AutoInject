@@ -1,0 +1,170 @@
+2024-08-02 20:32:50.403844 - User authenticated successfully
+2024-08-02 20:33:09.977562 - Scanning ports on google.com with default scan
+2024-08-02 20:34:24.710743 - JSON report saved to port_scan_google.com.json
+2024-08-02 20:34:24.713277 - XML report saved to port_scan_google.com.xml
+2024-08-02 20:34:24.722525 - PDF report saved to port_scan_google.com.pdf
+2024-08-02 20:34:24.722525 - Port scan completed for google.com
+2024-08-02 20:50:36.815256 - Incorrect password attempt
+2024-08-02 20:50:38.760023 - Incorrect password attempt
+2024-08-02 20:50:39.561507 - Incorrect password attempt
+2024-08-02 20:50:39.563048 - User failed authentication
+2024-08-02 20:50:59.305120 - User authenticated successfully
+2024-08-02 20:51:42.831611 - User authenticated successfully
+2024-08-02 20:55:49.786487 - Scanning SQL injection vulnerabilities on https://lms.nmamit.in/login/index.php
+2024-08-02 20:56:14.124754 - Scanning SQL injection vulnerabilities on google.com
+2024-08-02 20:58:16.036929 - User authenticated successfully
+2024-08-02 21:06:00.649104 - Scanning SQL injection vulnerabilities on google.com
+2024-08-02 21:08:06.102412 - Scanning services on google.com
+2024-08-02 21:08:39.042459 - JSON report saved to service_scan_google.com.json
+2024-08-02 21:08:39.043915 - XML report saved to service_scan_google.com.xml
+2024-08-02 21:08:39.050571 - PDF report saved to service_scan_google.com.pdf
+2024-08-02 21:08:39.051859 - Service scan completed for google.com
+2024-08-02 21:09:51.197386 - Scanning web server vulnerabilities on google.com
+2024-08-02 21:09:51.211544 - Nikto scan completed for google.com. Report saved to nikto_scan_google.com.txt
+2024-08-02 21:10:42.931731 - Scanning ports on google.com with default scan
+2024-08-02 21:11:59.674479 - JSON report saved to port_scan_google.com.json
+2024-08-02 21:11:59.675662 - XML report saved to port_scan_google.com.xml
+2024-08-02 21:11:59.680511 - PDF report saved to port_scan_google.com.pdf
+2024-08-02 21:11:59.680511 - Port scan completed for google.com
+2024-08-04 20:37:05.873303 - User authenticated successfully
+2024-08-04 20:37:14.673704 - Scanning SQL injection vulnerabilities on google.com
+2024-08-04 20:39:57.593248 - Invalid option selected
+2024-08-04 20:39:58.254372 - Invalid option selected
+2024-08-04 20:40:01.536248 - Program exited by user
+2024-08-04 20:46:57.255156 - User authenticated successfully
+2024-08-04 20:47:09.779600 - Scanning SQL injection vulnerabilities on google.com
+2024-08-04 20:52:56.993249 - Scanning ports on google.com with default scan
+2024-08-04 20:54:20.786957 - JSON report saved to port_scan_google.com.json
+2024-08-04 20:54:20.786957 - XML report saved to port_scan_google.com.xml
+2024-08-04 20:54:20.800558 - PDF report saved to port_scan_google.com.pdf
+2024-08-04 20:54:20.800558 - Port scan completed for google.com
+2024-08-04 20:54:34.428647 - Scanning SQL injection vulnerabilities on google.com
+2024-08-04 21:04:39.079862 - Scanning SQL injection vulnerabilities on google.com
+2024-08-04 21:06:48.127102 - Invalid option selected
+2024-08-04 21:06:58.122841 - Scanning web server vulnerabilities on google.com
+2024-08-04 21:06:58.152474 - Nikto scan completed for google.com. Report saved to nikto_scan_google.com.txt
+2024-08-05 08:31:24.143769 - Incorrect password attempt
+2024-08-05 08:31:26.736698 - Incorrect password attempt
+2024-08-05 08:31:29.103496 - Incorrect password attempt
+2024-08-05 08:31:29.103496 - User failed authentication
+2024-08-05 08:31:50.087469 - User authenticated successfully
+2024-08-05 08:32:08.159257 - Scanning ports on google.com with default scan
+2024-08-05 08:32:08.640892 - JSON report saved to port_scan_google.com.json
+2024-08-05 08:32:08.640892 - XML report saved to port_scan_google.com.xml
+2024-08-05 08:32:08.650440 - PDF report saved to port_scan_google.com.pdf
+2024-08-05 08:32:08.650440 - Port scan completed for google.com
+2024-08-06 10:59:02.236474 - User authenticated successfully
+2024-08-06 10:59:09.157840 - Scanning services on google.com
+2024-08-06 11:00:51.947232 - User authenticated successfully
+2024-08-06 11:01:05.874862 - Scanning services on google.com
+2024-08-06 11:01:32.715354 - JSON report saved to service_scan_google.com.json
+2024-08-06 11:01:32.715354 - XML report saved to service_scan_google.com.xml
+2024-08-06 11:01:32.715354 - PDF report saved to service_scan_google.com.pdf
+2024-08-06 11:01:32.715354 - Service scan completed for google.com
+2024-08-06 11:03:17.286253 - User authenticated successfully
+2024-08-06 11:03:27.304895 - Scanning services on google.com
+2024-08-26 19:10:06.532539 - User authenticated successfully
+2024-08-26 19:10:12.263697 - Program exited by user
+2024-08-26 19:11:01.455484 - User authenticated successfully
+2024-08-26 19:11:24.983448 - Scan scheduled at 00:01 every day
+2024-08-26 19:12:31.489741 - Scanning SQL injection vulnerabilities on google.com
+2024-08-26 19:19:52.414912 - User authenticated successfully
+2024-08-26 19:20:03.489275 - Scanning services on google.com
+2024-08-26 19:20:33.607549 - JSON report saved to service_scan_google.com.json
+2024-08-26 19:20:33.607549 - XML report saved to service_scan_google.com.xml
+2024-08-26 19:20:33.612383 - PDF report saved to service_scan_google.com.pdf
+2024-08-26 19:20:33.612383 - Service scan completed for google.com
+2024-08-26 19:26:29.869056 - User authenticated successfully
+2024-08-26 19:26:37.411045 - Scanning ports on google.com with default scan
+2024-08-26 19:27:52.622298 - JSON report saved to port_scan_google.com.json
+2024-08-26 19:27:52.626481 - XML report saved to port_scan_google.com.xml
+2024-08-26 19:27:52.629001 - PDF report saved to port_scan_google.com.pdf
+2024-08-26 19:27:52.629001 - Port scan completed for google.com
+2024-09-17 20:44:36.601356 - User authenticated successfully
+2024-09-17 20:44:41.423987 - Scanning ports on 192.168.56.1 with default scan
+2024-09-17 20:44:45.021056 - JSON report saved to port_scan_192.168.56.1.json
+2024-09-17 20:44:45.026482 - XML report saved to port_scan_192.168.56.1.xml
+2024-09-17 20:44:45.032260 - PDF report saved to port_scan_192.168.56.1.pdf
+2024-09-17 20:44:45.032260 - Port scan completed for 192.168.56.1
+2024-09-17 20:45:41.048744 - Scanning ports on 192.168.1.8 with default scan
+2024-09-17 20:45:44.475692 - JSON report saved to port_scan_192.168.1.8.json
+2024-09-17 20:45:44.477710 - XML report saved to port_scan_192.168.1.8.xml
+2024-09-17 20:45:44.477710 - PDF report saved to port_scan_192.168.1.8.pdf
+2024-09-17 20:45:44.481465 - Port scan completed for 192.168.1.8
+2024-09-17 20:54:33.347552 - Scanning ports on 192.168.1.8 with default scan
+2024-09-17 20:54:36.781407 - JSON report saved to port_scan_192.168.1.8.json
+2024-09-17 20:54:36.783371 - XML report saved to port_scan_192.168.1.8.xml
+2024-09-17 20:54:36.787369 - PDF report saved to port_scan_192.168.1.8.pdf
+2024-09-17 20:54:36.787974 - Port scan completed for 192.168.1.8
+2024-09-17 20:55:06.033501 - Scanning ports on hackers.com with default scan
+2024-09-17 20:55:26.455127 - JSON report saved to port_scan_hackers.com.json
+2024-09-17 20:55:26.457177 - XML report saved to port_scan_hackers.com.xml
+2024-09-17 20:55:26.462995 - PDF report saved to port_scan_hackers.com.pdf
+2024-09-17 20:55:26.463977 - Port scan completed for hackers.com
+2024-09-17 20:56:52.006327 - Scanning ports on 108.158.251.14 with default scan
+2024-09-17 20:57:04.608522 - JSON report saved to port_scan_108.158.251.14.json
+2024-09-17 20:57:04.611479 - XML report saved to port_scan_108.158.251.14.xml
+2024-09-17 20:57:04.652097 - PDF report saved to port_scan_108.158.251.14.pdf
+2024-09-17 20:57:04.653178 - Port scan completed for 108.158.251.14
+2024-09-17 21:04:14.269183 - Scanning ports on 108.158.251.14, version with default scan
+2024-09-17 21:04:21.898304 - JSON report saved to port_scan_108.158.251.14, version.json
+2024-09-17 21:04:21.900777 - XML report saved to port_scan_108.158.251.14, version.xml
+2024-09-17 21:04:21.904750 - PDF report saved to port_scan_108.158.251.14, version.pdf
+2024-09-17 21:04:21.904750 - Port scan completed for 108.158.251.14, version
+2024-09-17 21:22:19.415627 - User authenticated successfully
+2024-09-17 21:22:38.171389 - Scanning ports on hackers.com with syn scan
+2024-09-17 21:22:38.231117 - Error scanning ports: 'You requested a scan type which requires Npcap, but it seems to be missing.\r\nNpcap is available from https://npcap.com. The Npcap driver service must\r\nbe started by an administrator before Npcap can be used. Running nmap.exe\r\nwill open a UAC dialog where you can start the service if you have\r\nadministrator privileges.\r\nQUITTING!\r\n'
+2024-09-17 21:27:39.481440 - User authenticated successfully
+2024-09-17 21:27:53.326297 - Scanning ports on hackers.com with syn scan
+2024-09-17 21:27:58.886929 - JSON report saved to port_scan_hackers.com.json
+2024-09-17 21:27:58.887927 - XML report saved to port_scan_hackers.com.xml
+2024-09-17 21:27:58.897748 - PDF report saved to port_scan_hackers.com.pdf
+2024-09-17 21:27:58.898907 - Port scan completed for hackers.com
+2024-09-17 21:28:22.101885 - Scanning ports on hackers.com with udp scan
+2024-09-17 21:29:36.029584 - JSON report saved to port_scan_hackers.com.json
+2024-09-17 21:29:36.031902 - XML report saved to port_scan_hackers.com.xml
+2024-09-17 21:29:36.034826 - PDF report saved to port_scan_hackers.com.pdf
+2024-09-17 21:29:36.036409 - Port scan completed for hackers.com
+2024-09-17 21:31:15.324858 - Scanning ports on hackers.com with version scan
+2024-09-17 21:31:57.069097 - JSON report saved to port_scan_hackers.com.json
+2024-09-17 21:31:57.071536 - XML report saved to port_scan_hackers.com.xml
+2024-09-17 21:31:57.075612 - PDF report saved to port_scan_hackers.com.pdf
+2024-09-17 21:31:57.076586 - Port scan completed for hackers.com
+2024-09-17 21:43:02.679444 - User authenticated successfully
+2024-09-17 21:43:13.275783 - Scanning services on hackers.com
+2024-09-17 21:43:43.152008 - JSON report saved to service_scan_hackers.com.json
+2024-09-17 21:43:43.152008 - XML report saved to service_scan_hackers.com.xml
+2024-09-17 21:43:43.206260 - PDF report saved to service_scan_hackers.com.pdf
+2024-09-17 21:43:43.206260 - Service scan completed for hackers.com
+2024-09-19 08:44:57.910797 - Incorrect password attempt
+2024-09-19 08:44:59.297882 - Incorrect password attempt
+2024-09-19 08:45:00.283791 - Incorrect password attempt
+2024-09-19 08:45:00.283791 - User failed authentication
+2024-09-19 08:45:08.866369 - User authenticated successfully
+2024-09-19 08:45:28.264841 - Invalid option selected
+2024-09-19 08:46:06.810522 - Scanning ports on hackers.com with version scan
+2024-09-19 08:46:07.276239 - JSON report saved to port_scan_hackers.com.json
+2024-09-19 08:46:07.278811 - XML report saved to port_scan_hackers.com.xml
+2024-09-19 08:46:07.283227 - PDF report saved to port_scan_hackers.com.pdf
+2024-09-19 08:46:07.283227 - Port scan completed for hackers.com
+2024-09-19 08:46:59.344936 - Scanning ports on hackers.com with default scan
+2024-09-19 08:48:30.107475 - JSON report saved to port_scan_hackers.com.json
+2024-09-19 08:48:30.111171 - XML report saved to port_scan_hackers.com.xml
+2024-09-19 08:48:30.116472 - PDF report saved to port_scan_hackers.com.pdf
+2024-09-19 08:48:30.116472 - Port scan completed for hackers.com
+2024-09-19 08:51:41.555626 - Program exited by user
+2024-09-19 10:35:57.689358 - Incorrect password attempt
+2024-09-19 10:35:59.508940 - Incorrect password attempt
+2024-09-19 10:36:02.624317 - Incorrect password attempt
+2024-09-19 10:36:02.626231 - User failed authentication
+2024-09-19 10:36:11.497171 - User authenticated successfully
+2024-09-19 10:36:59.704637 - Scanning ports on hackers.com with default scan
+2024-09-19 10:37:00.537547 - JSON report saved to port_scan_hackers.com.json
+2024-09-19 10:37:00.537547 - XML report saved to port_scan_hackers.com.xml
+2024-09-19 10:37:00.549679 - PDF report saved to port_scan_hackers.com.pdf
+2024-09-19 10:37:00.549679 - Port scan completed for hackers.com
+2024-09-19 10:37:23.615275 - Scanning ports on hackers.com with default scan
+2024-09-19 10:37:47.402250 - JSON report saved to port_scan_hackers.com.json
+2024-09-19 10:37:47.402250 - XML report saved to port_scan_hackers.com.xml
+2024-09-19 10:37:47.415769 - PDF report saved to port_scan_hackers.com.pdf
+2024-09-19 10:37:47.415769 - Port scan completed for hackers.com
